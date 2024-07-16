@@ -70,15 +70,15 @@ Planet: Each planet has a dedicated detail screen that provides comprehensive in
 ### --: Photos :--
 
 <p>
-  <img align = "center"  src = "https://github.com/user-attachments/assets/e5f9d5e3-5f1c-4ef1-ac73-5abcc9b75501" width=22% height=35% >
+  <img align = "center"  src = "https://github.com/user-attachments/assets/e5f9d5e3-5f1c-4ef1-ac73-5abcc9b75501" width=200 >
   
-  <img align = "center"  src = "https://github.com/user-attachments/assets/a78b27cb-9e08-40d7-a129-cbb59ee98241" width=22% height=35% >
+  <img align = "center"  src = "https://github.com/user-attachments/assets/a78b27cb-9e08-40d7-a129-cbb59ee98241" width=200 >
  
-  <img align = "center"  src = "https://github.com/user-attachments/assets/14576e94-b375-43e1-8da4-aa218ebd4492" width=22% height=35% >
+  <img align = "center"  src = "https://github.com/user-attachments/assets/14576e94-b375-43e1-8da4-aa218ebd4492" width=200>
    
-  <img align = "center"  src = "https://github.com/user-attachments/assets/5e37b2ae-4e9e-436d-8106-c27724879c0e" width=22% height=35% >
+  <img align = "center"  src = "https://github.com/user-attachments/assets/5e37b2ae-4e9e-436d-8106-c27724879c0e" width=200 >
    
-  <img align = "center"  src = "https://github.com/user-attachments/assets/fd7db127-a400-4a28-ab94-d57790c06e1e" width=22% height=35% >
+  <img align = "center"  src = "https://github.com/user-attachments/assets/fd7db127-a400-4a28-ab94-d57790c06e1e" width=200 >
 
 
 </P>
